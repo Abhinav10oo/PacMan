@@ -191,5 +191,5 @@ This project is open source and free to use for learning purposes.
 
 ## 👨‍💻 Author
 
-Made with ❤️ and Java.  
+Made with Java.  
 Feel free to fork, improve, and star ⭐ the repo if you found it useful!
