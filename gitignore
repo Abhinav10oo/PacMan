@@ -1,0 +1,69 @@
+# ============================================================
+#  Java .gitignore — PacMan Project
+# ============================================================
+
+# Compiled class files
+*.class
+
+# Compiled output folder
+bin/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# ============================================================
+#  IDE Files (uncomment what you use)
+# ============================================================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# ============================================================
+#  OS Generated Files
+# ============================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ============================================================
+#  Misc
+# ============================================================
+
+# Log files
+*.log
+
+# Temp files
+sources.txt
+*.tmp
+*.swp
